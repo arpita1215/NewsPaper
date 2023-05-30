@@ -1,0 +1,32 @@
+This is a small project about a news paper
+
+first api in index.js
+
+Post api
+It will ask about the details of author that are their in a newspaper company
+
+Second api
+Post api
+details about the news
+
+Again a post api
+storing all the details of the authord
+
+get api 
+getting all the details of all the author
+
+update api
+updating a particular details of an author
+
+get api
+to get a particular author
+
+get api
+to get news  of particular location
+
+delete api
+to delete news of a particular author
+
+
+This project has two schemas
+One for author and other for news
